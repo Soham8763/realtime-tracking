@@ -65,7 +65,7 @@ The client-side code handles geolocation tracking and map display:
 
 1. Clone the repository or download the source code:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Soham8763/realtime-tracking.git
    # or download and extract the zip file
    ```
 
